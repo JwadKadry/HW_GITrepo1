@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-chmod +x commit.sh
 set -euo pipefail
 
 CSV_FILE="tasks.csv"
